@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext5-5.5.10/itext-pdfa-5.5.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext5-5.5.10/itext-pdfa-5.5.10-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext5-5.5.10/itext-pdfa-5.5.10.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext5-5.5.10/itext-xtra-5.5.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext5-5.5.10/itext-xtra-5.5.10-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext5-5.5.10/itext-xtra-5.5.10.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext5-5.5.10/itextpdf-5.5.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext5-5.5.10/itextpdf-5.5.10-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext5-5.5.10/itextpdf-5.5.10.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext5-5.5.10/xmlworker-5.5.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext5-5.5.10/xmlworker-5.5.10-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext5-5.5.10/xmlworker-5.5.10.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/barcodes-7.0.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/barcodes-7.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/barcodes-7.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/font-asian-7.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/forms-7.0.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/forms-7.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/forms-7.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/hyph-7.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/io-7.0.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/io-7.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/io-7.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/kernel-7.0.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/kernel-7.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/kernel-7.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/layout-7.0.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/layout-7.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/layout-7.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/pdfa-7.0.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/pdfa-7.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/pdfa-7.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/pdftest-7.0.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/pdftest-7.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/pdftest-7.0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/sign-7.0.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/sign-7.0.3-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/Ejmin/Desktop/itext7-7.0.3 2/sign-7.0.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
